@@ -1,4 +1,4 @@
-수정
+//수정하였음
 
 #include <iostream>
 #include <math.h>
